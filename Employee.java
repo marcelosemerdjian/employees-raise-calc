@@ -15,6 +15,5 @@ public class Employee {
 	
 	public String toString() {
 		return "Employee: " + name;
-	}
-	
+	}	
 }
